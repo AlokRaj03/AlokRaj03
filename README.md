@@ -16,8 +16,7 @@
 ### 🔗 Connect with me
 - [LinkedIn](http://www.linkedin.com/in/alok-raj-963566348)
 - [Instagram](https://www.instagram.com/_ig_alokraj__/)
-
----
+  
 
 ### 💻 Languages & Tools
 - **Languages:** C++, Java, JavaScript, HTML/CSS  
